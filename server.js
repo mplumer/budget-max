@@ -18,10 +18,10 @@ app.use(express.static("public"));
 
 // Mongoose DB connection
 mongoose.connect(MONGODB_URI, {
+  useFindAndModify: false,
   useNewUrlParser: true,
-  useFindAndModify: false
+  useUnifiedTopology: true
 });
-
 
 // routes
 app.use(require("./routes/api.js"));
