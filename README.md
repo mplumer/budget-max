@@ -1,7 +1,7 @@
 # budget-max
 
 ## Description 
-Social Network API is a NoSQL database application designed to allow users to share thoughts, as well as reactions to those thoughts. 
+Budget Tracker API is an Express-based, progressive web application (PWA) designed to allow users to track their budget, whether internet service is available or not. 
 
 ### User Story
 * AS AN avid traveler
@@ -17,20 +17,18 @@ Social Network API is a NoSQL database application designed to allow users to sh
 ## Link to Github Repository
 * [social-network-api](https://github.com/mplumer/budget-max)
 
-![Screenshot](public/images/screenshot.png)
- 
+![Screenshot](public/images/Screenshot 1.png)
+![Screenshot](public/images/Screenshot 2.png)
+![Screenshot](public/images/Screenshot 3.png)
+
 ### Installation
-  Clone or fork the code from the social-network-api repository on GitHub. Open the code in a standard code editing application, such as VS Code. Install npm and the following dependencies: 
-  * express
-  * MongoDB
-  * mongoose
+Follow the deployed application link: https://nameless-fjord-00851.herokuapp.com. From here, use the app online, and/or click the circled plus symbol in the url bar to install the PWA to your device for use offline.
 
 ### Usage
- Type npm start in the terminal and press enter to start the server. Use Insomnia Core to test routes using schemas from the models folder.
-
+Type the name of a transaction, the amount, and click to either add or subtract the funds from your budget. A record of the transaction is kept, and reflected in the dynamic graph below the inputs. 
 
 ### Contributing
-Budget-Max is an open source project, and anyone is encouraged to contribute by cloning or forking the code and working to improve its function and versatility.
+Budget-Max is an open source project built from starter code, cloned from a Vanderbilt Coding Bootcamp assignment. Anyone is encouraged to contribute by cloning or forking the code and working to improve its function and versatility.
 
 ### Questions
     
