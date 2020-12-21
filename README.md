@@ -17,12 +17,12 @@ Budget Tracker API is an Express-based, progressive web application (PWA) design
 ## Link to Github Repository
 * [social-network-api](https://github.com/mplumer/budget-max)
 
-![Screenshot](public/images/Screenshot 1.png)
-![Screenshot](public/images/Screenshot 2.png)
-![Screenshot](public/images/Screenshot 3.png)
+![Screenshot](public/images/screenshot1.png)
+![Screenshot](public/images/screenshot2.png)
+![Screenshot](public/images/screenshot3.png)
 
 ### Installation
-Follow the deployed application link: https://nameless-fjord-00851.herokuapp.com. From here, use the app online, and/or click the circled plus symbol in the url bar to install the PWA to your device for use offline.
+Follow the deployed application link: https://budget-max.herokuapp.com/. From here, use the app online, and/or click the circled plus symbol in the url bar to install the PWA to your device for use offline.
 
 ### Usage
 Type the name of a transaction, the amount, and click to either add or subtract the funds from your budget. A record of the transaction is kept, and reflected in the dynamic graph below the inputs. 

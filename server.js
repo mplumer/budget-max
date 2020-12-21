@@ -16,11 +16,12 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/budget-max', {
-  useFindAndModify: false,
+// Mongoose DB connection
+mongoose.connect(MONGODB_URI, {
   useNewUrlParser: true,
-  useUnifiedTopology: true
+  useFindAndModify: false
 });
+
 
 // routes
 app.use(require("./routes/api.js"));
