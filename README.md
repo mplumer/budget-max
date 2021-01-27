@@ -15,11 +15,12 @@ Budget Tracker API is an Express-based, progressive web application (PWA) design
 * [Questions](#questions)
 
 ## Link to Github Repository
-* [social-network-api](https://github.com/mplumer/budget-max)
+* [Budget-Max](https://github.com/mplumer/budget-max)
 
 ![Screenshot](public/images/screenshot1.png)
 ![Screenshot](public/images/screenshot2.png)
 ![Screenshot](public/images/screenshot3.png)
+![Video]((public/images/Mod19_assignment_working_heroku.webm))
 
 ### Installation
 Follow the deployed application link: https://budget-max.herokuapp.com/. From here, use the app online, and/or click the circled plus symbol in the url bar to install the PWA to your device for use offline.
