@@ -1,7 +1,7 @@
 # budget-max
 
 ## Description 
-Budget Tracker API is an Express-based, progressive web application (PWA) designed to allow users to track their budget, whether internet service is available or not. 
+Budget-Max is an Express-based, progressive web application (PWA) designed to allow users to track their budget, whether internet service is available or not. 
 
 ### User Story
 * AS AN avid traveler
