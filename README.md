@@ -14,13 +14,12 @@ Budget Tracker API is an Express-based, progressive web application (PWA) design
 * [Contributing](#contributing)
 * [Questions](#questions)
 
-## Link to Github Repository
-* [Budget-Max](https://github.com/mplumer/budget-max)
+## Link to Deployed Application
+* [Budget-Max](https://budget-max.herokuapp.com/)
 
 ![Screenshot](public/images/screenshot1.png)
 ![Screenshot](public/images/screenshot2.png)
 ![Screenshot](public/images/screenshot3.png)
-![Video]((public/images/Mod19_assignment_working_heroku.webm))
 
 ### Installation
 Follow the deployed application link: https://budget-max.herokuapp.com/. From here, use the app online, and/or click the circled plus symbol in the url bar to install the PWA to your device for use offline.
@@ -29,7 +28,7 @@ Follow the deployed application link: https://budget-max.herokuapp.com/. From he
 Type the name of a transaction, the amount, and click to either add or subtract the funds from your budget. A record of the transaction is kept, and reflected in the dynamic graph below the inputs. 
 
 ### Contributing
-Budget-Max is an open source project built from starter code, cloned from a Vanderbilt Coding Bootcamp assignment. Anyone is encouraged to contribute by cloning or forking the code and working to improve its function and versatility.
+Budget-Max is an open source project built from starter code, cloned from the Vanderbilt University Coding Bootcamp. Anyone is encouraged to contribute by cloning or forking the code and working to improve its function and versatility.
 
 ### Questions
     
@@ -37,5 +36,5 @@ Budget-Max is an open source project built from starter code, cloned from a Vand
 https://github.com/mplumer
     
 ##### Send any questions to the following email address:
-mplumer12@yahoo.com
+maxplumer12@gmail.com
 
